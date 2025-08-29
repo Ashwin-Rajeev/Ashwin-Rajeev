@@ -7,7 +7,6 @@ As a dev, I love being faced with and solving problems.
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - ⌨️ Wrote some handy tools such as [Boom](https://github.com/Ashwin-Rajeev/boom) and [Pico](https://chrome.google.com/webstore/detail/pico-save-highlights/eomffoldambidoaegcedhcclcimegipc?utm_source=chrome-ntp-icon).
 - 💬 Ask me about Coding, Golang, Docker, Postgres, Git, REST, Technologies, CS Fundamentals ...
-- 📫 You can reach me on https://www.ashwinrajeev.com/
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
